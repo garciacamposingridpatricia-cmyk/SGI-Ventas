@@ -1,0 +1,2 @@
+# Dependencias de SGI-Ventas
+# SQLite3 viene integrado de forma nativa en Python.
